@@ -26,24 +26,6 @@ Server: Apache Tomcat
 
 Frontend: HTML, CSS
 
-Project Structure
-Servlet-Login-Register/
-├── src/
-│   ├── com/
-│   │   ├── login/
-│   │   │   ├── LoginServlet.java
-│   │   │   ├── RegisterServlet.java
-│   │   │   └── LogoutServlet.java
-│   │   └── dao/
-│   │       └── UserDAO.java
-├── WebContent/
-│   ├── login.jsp
-│   ├── register.jsp
-│   ├── dashboard.jsp
-│   └── WEB-INF/
-│       └── web.xml
-└── README.md
-
 Database Setup
 
 Create a Database:
